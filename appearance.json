@@ -1,0 +1,9 @@
+{
+  "accentColor": "",
+  "enabledCssSnippets": [
+    "corners",
+    "latex"
+  ],
+  "cssTheme": "Atom",
+  "translucency": true
+}

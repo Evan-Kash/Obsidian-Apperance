@@ -1,0 +1,25 @@
+.callout {
+border-radius: 20px;
+border-color: rgba(0, 0, 0, 0.136);
+border-width: 0.5px;
+}
+
+.lc-li-wrapper::after {
+    z-index: -1;
+    position: absolute;
+    background-color: rgba(var(--lc-callout-color), 0.1);
+    top: calc(-1 * var(--lc-bg-top-reading) + 1px);
+    right: calc(-1 * var(--lc-bg-right-reading) + 1px);
+    bottom: calc(-1 * var(--lc-bg-bottom-reading) + 1px);
+    left: calc(-1 * var(--lc-bg-left-reading) + 1px);
+    content: "";
+    display: inline-block;
+    border-radius: 12px;
+  }
+
+.lc-menu {
+    display: inline-block
+}
+img {
+border-radius: 15px;
+}
