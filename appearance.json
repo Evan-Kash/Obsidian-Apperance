@@ -2,7 +2,8 @@
   "accentColor": "",
   "enabledCssSnippets": [
     "corners",
-    "latex"
+    "latex",
+    "callouts"
   ],
   "cssTheme": "Atom",
   "translucency": true
