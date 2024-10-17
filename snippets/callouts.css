@@ -1,0 +1,40 @@
+
+.callout[data-callout="i"] {
+    --callout-color: 190, 230, 190; /* Forest Green */
+    --callout-icon: <svg xmlns="http://www.w3.org/2000/svg" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" image-rendering="optimizeQuality" fill-rule="evenodd" clip-rule="evenodd" viewBox="0 0 265 511.377" style="margin: 10px;"><path fill-rule="nonzero" d="M0 444.277v67.1h265v-67.1h-93.145V66.755H265V0H0v66.755h92.587v377.522z"/></svg>
+}
+
+.callout[data-callout="ii"] {
+    --callout-color: 190, 230, 190; /* Forest Green */
+    --callout-icon: <svg xmlns="http://www.w3.org/www.svg" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" image-rendering="optimizeQuality" fill-rule="evenodd" clip-rule="evenodd" viewBox="0 0 512 510.769" style="margin: 10px;"><path fill-rule="nonzero" d="M512 510.769v-67.02h-85.703V66.676H512V0H0v66.676h85.702v377.073H0v67.02h512zm-162.63-67.02H162.629V66.676H349.37v377.073z"/></svg>
+}
+
+.callout[data-callout="iii"] {
+    --callout-color: 190, 230, 190; /* Forest Green */
+    --callout-icon: <svg xmlns="http://www.w3.org/2000/svg" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" image-rendering="optimizeQuality" fill-rule="evenodd" clip-rule="evenodd" viewBox="0 0 512 464.032" style="margin: 10px;"><path fill-rule="nonzero" d="M512 403.144h-49.727V60.574H512V0H0v60.574h49.726v342.57H0v60.888h512v-60.888zm-289.253 0H116.023V60.574h106.724v342.57zm66.505-342.57h106.725v342.57H289.252V60.574z"/></svg>
+}
+
+.callout[data-callout="iv"] {
+    --callout-color: 190, 230, 190; /* Forest Green */
+    --callout-icon: <svg xmlns="http://www.w3.org/2000/svg" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" image-rendering="optimizeQuality" fill-rule="evenodd" clip-rule="evenodd" viewBox="0 0 512 415.6" style="margin: 10px;"><path fill-rule="nonzero" d="M300.77 415.6h68.719L512 0h-68.733l-97.961 309.018c-.921 3.216-1.922 7.153-3.123 11.637-1.095 4.592-2.202 9.356-3.203 14.294-1.015 4.858-1.922 9.81-2.843 14.761-.827 4.858-1.468 9.436-1.829 13.56h-1.654c-.361-3.937-1.002-8.422-1.829-13.467-.921-4.951-1.922-9.996-3.123-15.028-1.188-5.044-2.375-9.902-3.657-14.667-1.201-4.671-2.389-8.795-3.483-12.185L224.243 0h-66.892L300.77 415.6zM98.335 54.252h36.461V0H0v54.252h35.741v306.816H0V415.6h134.796v-54.532H98.335V54.252z"/></svg>
+}
+
+.callout[data-callout="v"] {
+    --callout-color: 190, 230, 190; /* Forest Green */
+    --callout-icon: <svg xmlns="http://www.w3.org/2000/svg" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" image-rendering="optimizeQuality" fill-rule="evenodd" clip-rule="evenodd" viewBox="0 0 472 512.325" style="margin: 10px;"><path fill-rule="nonzero" d="M194.647 512.325h84.055L472 0h-85.404L249.549 384.902a1865.782 1865.782 0 00-8.128 26.208c-2.715 9.263-4.738 17.275-6.104 24.054h-1.349a106.334 106.334 0 00-2.254-10.497c-1.135-4.179-2.385-8.703-3.619-13.458-1.366-4.738-2.83-9.476-4.294-14.116-1.58-4.623-3.159-8.917-4.64-12.882L83.38 0H0l194.647 512.325z"/></svg>
+}
+
+.callout[data-callout="vi"] {
+    --callout-color: 190, 230, 190; /* Forest Green */
+    --callout-icon: <svg xmlns="http://www.w3.org/2000/svg" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" image-rendering="optimizeQuality" fill-rule="evenodd" clip-rule="evenodd" viewBox="0 0 512 415.597" style="margin: 10px;"><path fill-rule="nonzero" d="M144.152 415.597h68.186L354.648 0h-68.719l-97.788 309.015c-.827 3.217-1.828 7.154-2.936 11.638-1.095 4.591-2.109 9.356-3.11 14.294-.921 4.858-1.922 9.809-2.749 14.761a249.521 249.521 0 00-2.202 13.559h-1.562c-.173-3.937-.734-8.421-1.641-13.466-.921-4.952-1.922-9.996-3.123-15.028a292.31 292.31 0 00-3.577-14.667c-1.281-4.671-2.376-8.795-3.203-12.185L67.638 0H0l144.152 415.597zM476.259 54.252H512V0H377.203v54.252h36.462v306.813h-36.462v54.532H512v-54.532h-35.741V54.252z"/></svg>
+}
+
+.callout[data-callout="vii"] {
+    --callout-color: 190, 230, 190; /* Forest Green */
+    --callout-icon: <svg xmlns="http://www.w3.org/2000/svg" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" image-rendering="optimizeQuality" fill-rule="evenodd" clip-rule="evenodd" viewBox="0 0 512 419.581" style="margin: 10px;"><path fill-rule="nonzero" d="M296.523 54.772h-28.767V0H512v54.772h-29.051v309.754H512v55.055H267.756v-55.055h28.767V54.772zm59.312 309.754h67.815V54.772h-67.815v309.754zm-221.405 4.083c.553-8.516 1.388-18.514 2.587-29.98 1.119-11.48 2.87-23.323 5.282-35.625L198.917 0h64.77l-97.526 419.581H96.77L0 0h66.616l57.264 303.556c.647 5.094 1.482 10.55 2.318 16.573.741 5.915 1.576 11.925 2.412 17.853.821 6.01 1.468 11.655 2.115 16.924.66 5.376 1.213 9.903 1.482 13.703h2.223z"/></svg>
+}
+
+.callout[data-callout="viii"] {
+    --callout-color: 190, 230, 190; /* Forest Green */
+    --callout-icon: <svg xmlns="http://www.w3.org/2000/svg" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" image-rendering="optimizeQuality" fill-rule="evenodd" clip-rule="evenodd" viewBox="0 0 512 338.475" style="margin: 10px;"><path fill-rule="nonzero" d="M239.209 44.184h-23.21V0H512v44.184h-23.434v249.883H512v44.408H215.999v-44.408h23.21V44.184zm173.828 0h-23.434v249.883h51.121V44.184h-27.687zM287.051 294.067h54.711V44.184h-54.711v249.883zm-178.604 3.283c.447-6.865 1.122-14.927 2.092-24.181.895-9.256 2.313-18.809 4.253-28.736L160.47 0h52.243l-78.664 338.475H78.072L0 0h53.74l46.201 244.88c.519 4.105 1.194 8.51 1.864 13.362.596 4.776 1.27 9.628 1.941 14.404.672 4.853 1.195 9.405 1.718 13.658.523 4.329.97 7.987 1.194 11.046h1.789z"/></svg>
+}
